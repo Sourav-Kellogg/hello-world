@@ -10,3 +10,4 @@
 
 This is an example of a GitHub repository.
 trying new command for first calss assignment 
+This is the change for class project
